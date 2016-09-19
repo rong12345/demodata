@@ -1,15 +1,6 @@
 # 我是a页面
 
-1. 草莓
-2. 樱桃
-3. 桃子
-
-
-- 海绵宝宝
-  - 痞老板
-- 派大星
-- 蟹黄堡
-
+![](http://www.qqttxx.com/upimg/allimg/110411/1023034540-7.jpg)
 
 ```js
 console.log('a');
